@@ -22,51 +22,51 @@
     }
 
     .container {
-      max-width: 800px;
+      max-width: 820px;
       padding: 40px 20px;
     }
 
     h1 {
       font-family: 'Impact', sans-serif;
-      font-size: 4.8rem;
-      margin: 0 0 10px 0;
-      letter-spacing: 6px;
+      font-size: 5.2rem;
+      margin: 0 0 8px 0;
+      letter-spacing: 8px;
       color: #00F0FF;
-      text-shadow: 0 0 30px rgba(0, 240, 255, 0.6);
+      text-shadow: 0 0 30px rgba(0, 240, 255, 0.7);
     }
 
     .tagline {
-      font-size: 1.7rem;
-      margin-bottom: 30px;
+      font-size: 1.75rem;
+      margin-bottom: 25px;
       opacity: 0.95;
     }
 
     img {
       max-width: 100%;
-      width: 420px;
+      width: 440px;
       height: auto;
       border-radius: 16px;
-      box-shadow: 0 25px 50px rgba(0, 240, 255, 0.25);
-      margin: 30px 0;
+      box-shadow: 0 25px 50px rgba(0, 240, 255, 0.3);
+      margin: 35px 0 25px;
       border: none;
     }
 
     .subtitle {
-      font-size: 1.35rem;
-      margin: 20px 0 40px;
+      font-size: 1.4rem;
+      margin: 15px 0 40px;
       line-height: 1.6;
     }
 
     .cta {
       background: #00F0FF;
       color: #000;
-      padding: 18px 45px;
-      font-size: 1.45rem;
+      padding: 18px 48px;
+      font-size: 1.5rem;
       font-weight: bold;
       border-radius: 50px;
       text-decoration: none;
       display: inline-block;
-      margin-top: 20px;
+      margin-top: 10px;
       transition: all 0.3s;
       box-shadow: 0 10px 30px rgba(0, 240, 255, 0.4);
     }
@@ -77,8 +77,8 @@
     }
 
     footer {
-      margin-top: 70px;
-      opacity: 0.7;
+      margin-top: 80px;
+      opacity: 0.65;
       font-size: 1rem;
     }
   </style>
@@ -88,7 +88,7 @@
     <h1>ZEEBEEV</h1>
     <p class="tagline">Electric. Bold. Unforgettable.</p>
 
-    <img src="https://ZeeBeav.github.io/ZeeBeavHiResLogoWB.png" alt="Zeebeev Helmet & License Plate">
+    <img src="https://zeebeav.github.io/ZeeBeavHiResLogoWB.png" alt="Zeebeev Helmet & License Plate">
 
     <p class="subtitle">
       Catch the Zeebeev license plate on the streets<br>
@@ -103,4 +103,3 @@
   </div>
 </body>
 </html>
-
