@@ -2,9 +2,23 @@
 <head>
   <title>Zeebeav/ZeeBeev - Official Site</title>
   <style>
-    body { font-family: Arial; text-align: center; padding: 50px; background: #000; color: white; }
-    h1 { font-size: 3em; }
-    img { max-width: 400px; margin: 20px; border: 5px solid white; }
+    body { 
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      padding: 50px; 
+      background: #000; 
+      color: white; 
+      margin: 0;
+    }
+    h1 { font-size: 3em; margin-bottom: 10px; }
+    img { 
+      max-width: 400px; 
+      margin: 20px 0; 
+      /* Remove any border */
+      border: none; 
+      outline: none;
+      box-shadow: none;
+    }
   </style>
 </head>
 <body>
